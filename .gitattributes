@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.go text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary
+*.syso binary
+*.exe binary
+*.zip binary

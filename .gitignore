@@ -1,0 +1,26 @@
+# Build output
+dist/
+loader/imnd-loader.exe
+*.exe
+*.exe~
+
+# Game files must never be committed
+*.asar
+*.asar.bak
+*.asar.unpacked/
+app.asar*
+
+# Go / editor / OS
+*.test
+*.out
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and scratch files
+*.log
+*.tmp
+*.tmp.*
